@@ -1,2 +1,2 @@
-# Torneo_Ajedrez_SUIZO
-App de gestión de torneos suizos de ajedrez
+# Torneo_Ajedrez__SUIZO
+App para gestionar torneos suizos de ajedrez

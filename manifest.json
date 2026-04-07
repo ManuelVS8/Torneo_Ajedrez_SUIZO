@@ -1,0 +1,24 @@
+{
+  "name": "Torneo Suizo Escolar",
+  "short_name": "Suizo Escolar",
+  "description": "Gestor de Torneos de Ajedrez Sistema Suizo para Centros Escolares",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#07c8dc",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./suizo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./suizo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
