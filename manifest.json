@@ -1,6 +1,6 @@
 {
   "name": "Torneo Suizo Escolar",
-  "short_name": "Ajedrez Suizo",
+  "short_name": "Gestor de Torneos de Ajedrez Sistema Suizo escolares",
   "description": "",
   "start_url": "./index.html",
   "display": "standalone",
