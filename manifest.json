@@ -1,7 +1,7 @@
 {
   "name": "Torneo Suizo Escolar",
-  "short_name": "Gestor de Torneos de Ajedrez Sistema Suizo escolares",
-  "description": "",
+  "short_name": "Suizo Escolar",
+  "description": "Gestor de Torneos de Ajedrez Sistema Suizo para Centros Escolares",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f1f5f9",
@@ -9,20 +9,15 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/ManuelVS8/Torneo_Ajedrez_SUIZO/refs/heads/main/suizo.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    },
-    {
-      "src": "https://raw.githubusercontent.com/ManuelVS8/Torneo_Ajedrez_SUIZO/refs/heads/main/suizo.ico",
+      "src": "https://raw.githubusercontent.com/ManuelVS8/Torneo_Ajedrez_SUIZO/refs/heads/main/icono-192.png",
       "sizes": "192x192",
-      "type": "image/x-icon",
+      "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://raw.githubusercontent.com/ManuelVS8/Torneo_Ajedrez_SUIZO/refs/heads/main/suizo.ico",
+      "src": "https://raw.githubusercontent.com/ManuelVS8/Torneo_Ajedrez_SUIZO/refs/heads/main/icono-512.png",
       "sizes": "512x512",
-      "type": "image/x-icon",
+      "type": "image/png",
       "purpose": "any maskable"
     }
   ]
